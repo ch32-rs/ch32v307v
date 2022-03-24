@@ -14,7 +14,7 @@
 
 [package]
 name = "ch32v307v"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Ahmed Charles <me@ahmedcharles.com>"]
 description = "Board support crate for CH32V307V boards."
 repository = "https://gitlab.com/ahmedcharles/ch32v307v"
@@ -26,7 +26,7 @@ rust-version = "1.59"
 edition = "2021"
 
 [dependencies]
-ch32v30x-hal = "0.0.1"
+ch32v30x-hal = "0.0.2"
 embedded-hal = "=1.0.0-alpha.7"
 riscv = "0.7.0"
 nb = "1.0.0"
