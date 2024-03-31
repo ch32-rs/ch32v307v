@@ -1,9 +1,5 @@
-[![crates.io](https://img.shields.io/crates/d/ch32v307v.svg)
-](https://crates.io/crates/ch32v307v)
-[![crates.io](https://img.shields.io/crates/v/ch32v307v.svg)
-](https://crates.io/crates/ch32v307v)
-[![build status](https://gitlab.com/ahmedcharles/ch32v307v/badges/main/pipeline.svg)
-](https://gitlab.com/ahmedcharles/ch32v307v/commits/main)
+# DEPRECATED: This repo is deprecated in favor of [ch32-hal](https://github.com/ch32-rs/ch32-hal)
+
 
 # `ch32v307v-r1`
 
